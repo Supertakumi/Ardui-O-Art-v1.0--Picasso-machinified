@@ -1,4 +1,4 @@
-Ardui-O-Art Software Operation Guid
+#Ardui-O-Art Software Operation Guide
 
 There are basically 2 Programs through which ArduiOArt will operate.
 	[1] Arduino Code
