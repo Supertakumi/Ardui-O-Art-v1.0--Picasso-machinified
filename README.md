@@ -4,4 +4,4 @@ Ardui-O-Art (Picasso machinified) is a Robot which replicates images on a paper 
 
 It uses Arduino as a controller board.
 
-It was made in the duration of 36 hours in GujaThon - Gujarat's first hackathon. 
+It was made in the duration of 48 hours in GujaThon - Gujarat's first hackathon. 
